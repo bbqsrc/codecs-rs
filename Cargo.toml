@@ -2,6 +2,10 @@
 name = "codecs"
 version = "0.0.1"
 edition = "2021"
+description = "String encoding and decoding helper functions and traits"
+author = "Brendan Molloy <brendan@bbqsrc.net>"
+license = "Apache-2.0 OR MIT"
+repository = "https://github.com/bbqsrc/codecs-rs"
 
 [dependencies]
 core2 = "0.3.2"
